@@ -1,0 +1,16 @@
+{
+    "name": "admin/php_pdo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joemust0",
+            "email": "joaofss.1991@gmail.com"
+        }
+    ],
+    "require": {}
+}
